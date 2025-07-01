@@ -25,18 +25,18 @@ What I Practiced with React
 
 Installation
 
-Clone the Repository
-    git clone https://github.com/yourusername/clothing-wear-site.git
+    Clone the Repository
+        git clone https://github.com/yourusername/clothing-wear-site.git
 
-Install Dependencies
-    cd clothing-wear-site
-    npm install
+    Install Dependencies
+        cd clothing-wear-site
+        npm install
 
-Start Development Server
-    npm start
+    Start Development Server
+        npm start
 
-Tech Stack
-    React.js
-    JavaScript (ES6+)
-    CSS
-    Context API for state management
+    Tech Stack
+        React.js
+        JavaScript (ES6+)
+        CSS
+        Context API for state management
